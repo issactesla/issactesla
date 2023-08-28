@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @issactesla
-- 👀 I’m interested in AI, ML, DA and in full stack websites development
+- 👀 I’m interested in AI, ML, DA, DS and in full stack websites development
 - 🌱 I’m currently learning Data Analysis with Python as well as front end with JS, CSS & HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 I´m at your service at foryoutservice4@gmail.com
